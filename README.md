@@ -30,7 +30,7 @@ The Waste Management API is a Spring Boot-based application developed for Enviro
 ## Getting Started
 
 ## Clone the Repository
-``` git clone https://github.com/yourusername/waste-management-api.git ``` <br/>
+``` git clone https://github.com/Waseem-Ahmad-Ebrahim/waste-management-api.git ``` <br/>
 ```cd waste-management-api```
 
 ## Build and Run the Application
