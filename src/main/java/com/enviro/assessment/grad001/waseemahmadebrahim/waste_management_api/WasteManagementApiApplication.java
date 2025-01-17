@@ -1,0 +1,13 @@
+package com.enviro.assessment.grad001.waseemahmadebrahim.waste_management_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WasteManagementApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WasteManagementApiApplication.class, args);
+	}
+
+}
