@@ -40,7 +40,7 @@ The Waste Management API is a Spring Boot-based application developed for Enviro
 2. Run the application: <br/>
 ``` mvn spring-boot:run ```
 3. Access the API: <br/>
-- Default Base URL: ``` http://localhost:8080/api 
+- Default Base URL: http://localhost:8080/api 
 
 ## API Endpoints
 
